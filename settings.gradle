@@ -1,0 +1,2 @@
+rootProject.name = "4.2Canary4Project"
+include ':app'
